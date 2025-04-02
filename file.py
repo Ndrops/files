@@ -19,5 +19,5 @@ def organise_files_by_type(folder_path):
     print("Files organised by type successfully.")
 
 # Example usage
-folder_to_organize = "C:/Users/vanessa/Documents" 
+folder_to_organize = "./test_folder"
 organise_files_by_type(folder_to_organize)
